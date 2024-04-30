@@ -1,0 +1,93 @@
+html {
+    background-color: rgb(243, 230, 216);
+}
+
+body {
+    background-color: white;
+    width: 650px;
+    margin-top: 100px;
+    margin-left: 270px;
+    padding-left: 30px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    color: hsl(10, 4%, 26%);
+}
+
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.outfit {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400, 600, 700;
+    font-style: normal;
+  }
+
+img {
+    padding-left: 10px;
+    padding-top: 40px;
+    border-radius: 6%;
+}
+
+h1 {
+    font-family: "Young Serif", serif;
+    color: hsl(24, 5%, 18%);
+    font-weight: 500;
+    font-size: 37px;
+}
+
+.sub {
+    padding-right: 60px;
+    padding-bottom: 30px;
+}
+
+.prep {
+    background-color: hsl(30, 54%, 90%);
+    margin-right: 40px;
+    padding-bottom: 17px;
+}
+
+h3 {
+    color: rgb(112, 46, 73);
+    padding-left: 17px;
+    padding-top: 20px;
+}
+
+h2 {
+    color: #844631;
+    font-family: "Young Serif", serif;
+    font-weight: 300;
+}
+
+.instru {
+    padding-right: 20px;
+}
+
+p{
+    padding-bottom: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(255, 255, 255);
+    width: 600px;
+    margin-bottom: 30px;
+  }
+
+th{
+text-align: left;
+padding-left: 5px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-weight: 400;
+}
+
+td{
+  text-align: left;
+  font-weight: 600;
+  color: #844631;
+}
